@@ -3,8 +3,8 @@
 #include "mul_div.h"
 
 int main() {
-    int a = 5;
-    int b = 5;
+    int a = 10;
+    int b = 10;
 
     // a ‚Æ b ‚Ì’l‚ð•\Ž¦
     std::cout << "a = " << a << std::endl;
