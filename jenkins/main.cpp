@@ -3,7 +3,7 @@
 #include "mul_div.h"
 
 int main() {
-    int a = 10;
+    int a = 5;
     int b = 5;
 
     // a ‚Æ b ‚Ì’l‚ð•\Ž¦
