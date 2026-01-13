@@ -4,7 +4,7 @@
 
 int main() {
     int a = 10;
-    int b = 10;
+    int b = 15;
 
     // a ‚Æ b ‚Ì’l‚ð•\Ž¦
     std::cout << "a = " << a << std::endl;
